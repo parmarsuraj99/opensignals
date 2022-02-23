@@ -1,5 +1,6 @@
 import logging
-from typing import List, Optional, Protocol, Dict, Tuple, Union
+from typing import List, Optional, Dict, Tuple, Union
+from typing_extensions import Protocol
 
 import numpy as np
 import pandas as pd
